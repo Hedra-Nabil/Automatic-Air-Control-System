@@ -1,0 +1,18 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F45K22 -DL -O11111114 -fo8 -N"C:\Users\Nagham\Desktop\New folder\AutomaticControlSystem.mcppi" -SP"E:\mikroC PRO for PIC\Defs\" -SP"E:\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\Nagham\Desktop\New folder\" -IP"E:\mikroC PRO for PIC\uses\P18\" "AutomaticControlSystem.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_Keypad4x4.mcl" "__Lib_ADC_K22_B.mcl" "__Lib_GlcdFonts.mcl" "__Lib_Glcd.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 1515 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	AutomaticControlSystem.c
+warning: 73	1506	Implicit conversion of pointer to int	AutomaticControlSystem.c
+warning: 74	1508	Implicit conversion of int to ptr	AutomaticControlSystem.c
+warning: 96	1506	Implicit conversion of pointer to int	AutomaticControlSystem.c
+warning: 98	1508	Implicit conversion of int to ptr	AutomaticControlSystem.c
+diagnostics: 137	123	Compiled Successfully	AutomaticControlSystem.c
+hint: 28	1164	Variable 'inTemp' has been eliminated by optimizer	AutomaticControlSystem.c
+hint: 29	1164	Variable 'temp' has been eliminated by optimizer	AutomaticControlSystem.c
+hint: 30	1164	Variable 'mV' has been eliminated by optimizer	AutomaticControlSystem.c
+diagnostics: 0	127	All files Compiled in 93 ms	 
+hint: 0	1144	Used RAM (bytes): 204 (13%)  Free RAM (bytes): 1311 (87%)	Used RAM (bytes): 204 (13%)  Free RAM (bytes): 1311 (87%)
+hint: 0	1144	Used ROM (bytes): 5662 (17%)  Free ROM (bytes): 27106 (83%)	Used ROM (bytes): 5662 (17%)  Free ROM (bytes): 27106 (83%)
+diagnostics: 0	125	Project Linked Successfully	AutomaticControlSystem.mcppi
+diagnostics: 0	128	Linked in 63 ms	 
+diagnostics: 0	129	Project 'AutomaticControlSystem.mcppi' completed: 188 ms	 
+diagnostics: 0	103	Finished successfully: 18 Dec 2024, 21:41:37	AutomaticControlSystem.mcppi
